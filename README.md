@@ -46,7 +46,7 @@ We can conclude that if we address the issues of customers within the first 4 ca
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![GOOGLE COLAB](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
 
-## :notebook_with_decorative_cover:	 Notebook do meu projeto no Google Colab
+## :notebook_with_decorative_cover:	 Notebook of my project in Google Colab
 <a target="_blank" href="https://colab.research.google.com/drive/1Df6Jrgs8_Tk9vd8tuJid6FZM-HMVWz_A?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
