@@ -26,6 +26,17 @@ As a Data Analyst, I should clean, organized and analyze the database from a CSV
 ### :white_check_mark:  Step 4: Analysis of cancellations;
 ### :white_check_mark:  Step 5: Analysis of the cause of cancellations.
 
+## :bulb: Conclusiom
+
+### Main Causes of Cancellations:
+
+1. Monthly payment method
+2. Payment delays over 20 days
+3. Call center calls exceeding 4 times
+
+If we remove call center calls that exceed 4 times and payment delays after 21 days from our database, our cancellation rate decreases from 56% to 18.4%.
+
+We can conclude that if we address the issues of customers within the first 4 calls and assist them with payment delays within the first 15 days, we can potentially reduce our cancellation rate about 38%.
 
 ## :battery: Stacks Employed
 ![VSCODE](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
